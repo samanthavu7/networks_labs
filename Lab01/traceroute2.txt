@@ -1,0 +1,31 @@
+traceroute to tickets.alhambra-patronato.es (82.159.245.172), 30 hops max, 60 byte packets
+ 1  rtr31-3.cs.ucr.edu (169.235.31.3)  1.072 ms  1.372 ms  1.416 ms
+ 2  138.23.3.100 (138.23.3.100)  0.705 ms  0.761 ms  0.929 ms
+ 3  b-fw-1-ae4-1030.net.ucr.edu (138.23.2.249)  0.617 ms  0.614 ms  0.590 ms
+ 4  b-fw-1-a-buneth-10-1020.ucr.edu (138.23.254.174)  1.255 ms  1.349 ms  1.359 ms
+ 5  137.164.24.208 (137.164.24.208)  1.609 ms  1.597 ms  1.660 ms
+ 6  dc-lax-agg6--riv-agg4-100ge-2.cenic.net (137.164.22.46)  5.746 ms  5.509 ms dc-lax-agg6--riv-agg4-100ge.cenic.net (137.164.11.2)  5.620 ms
+ 7  8-1-1-90.ear1.LosAngeles1.Level3.net (4.35.156.65)  5.463 ms  5.777 ms  5.442 ms
+ 8  * * *
+ 9  las-b21-link.telia.net (80.239.195.60)  5.668 ms  5.628 ms  5.675 ms
+10  las-b24-link.telia.net (62.115.136.47)  5.522 ms  5.582 ms  5.492 ms
+11  ae2-xcr2.lax.cw.net (195.2.22.73)  5.655 ms  5.722 ms  5.646 ms
+12  ae21-xcr2.ash.cw.net (195.2.2.154)  161.382 ms  161.459 ms  161.387 ms
+13  ae26-xcr2.prp.cw.net (195.2.25.246)  167.693 ms  150.228 ms  167.271 ms
+14  ae1-xcr1.bsb.cw.net (195.2.26.22)  161.081 ms ae18-xcr1.mar.cw.net (195.2.25.65)  160.320 ms  166.287 ms
+15  * ae6-xcr1.bsb.cw.net (195.2.27.157)  166.915 ms  167.105 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  95.39.35.209.static.user.ono.com (95.39.35.209)  172.549 ms * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

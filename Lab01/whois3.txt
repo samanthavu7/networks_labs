@@ -1,0 +1,70 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.2.22.0 - 195.2.22.255'
+
+% Abuse contact for '195.2.22.0 - 195.2.22.255' is 'ipabuse@vodafone.co.uk'
+
+inetnum:        195.2.22.0 - 195.2.22.255
+netname:        CW-CWINTERN-NET
+descr:          Cable & Wireless
+country:        EU
+admin-c:        GSOC-RIPE
+tech-c:         GSOC-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+mnt-by:         CW-EUROPE-GSOC
+mnt-domains:    CW-DNS-MNT
+created:        2005-11-08T15:19:41Z
+last-modified:  2007-03-27T14:16:27Z
+source:         RIPE
+
+role:           Vodafone IP GSOC
+address:        Vodafone Group PLC
+address:        Melbourne Street
+address:        Leeds
+address:        LS2 7PS
+address:        United Kingdom
+phone:          +44 1344 602224
+remarks:        ------------------------------------------------------------
+remarks:        For network issues contact Network Control phone
+remarks:        +44 1344 602224, email ncipsupport@vodafone.com
+remarks:        ------------------------------------------------------------
+remarks:        To report spam or network abuse email ipabuse@vodafone.co.uk
+remarks:        ------------------------------------------------------------
+remarks:        For more details please see http://www.as1273.net
+remarks:        or refer to AS1273 object in the RIPE database
+remarks:        ------------------------------------------------------------
+admin-c:        DS3356-RIPE
+admin-c:        DOM12-RIPE
+tech-c:         AB14382-RIPE
+tech-c:         DS3356-RIPE
+tech-c:         DOM12-RIPE
+tech-c:         JO361-RIPE
+tech-c:         MG10145-RIPE
+abuse-mailbox:  ipabuse@vodafone.co.uk
+nic-hdl:        GSOC-RIPE
+mnt-by:         CW-EUROPE-GSOC
+created:        2002-08-26T15:06:10Z
+last-modified:  2017-11-20T14:46:00Z
+source:         RIPE # Filtered
+
+% Information related to '195.2.0.0/19AS1273'
+
+route:          195.2.0.0/19
+descr:          Cable & Wireless Austria Netblock
+origin:         AS1273
+mnt-by:         CW-EUROPE-GSOC
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:31:39Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.95.1 (BLAARKOP)
+
+

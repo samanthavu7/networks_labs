@@ -1,0 +1,80 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       64.57.16.0 - 64.57.31.255
+CIDR:           64.57.16.0/20
+NetName:        I2-NEWNET
+NetHandle:      NET-64-57-16-0-1
+Parent:         NET64 (NET-64-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS11537, AS11164
+Organization:   Internet2 (INTER-395)
+RegDate:        2006-10-17
+Updated:        2018-01-03
+Comment:        see www.internet2.edu
+Ref:            https://rdap.arin.net/registry/ip/64.57.16.0
+
+
+OrgName:        Internet2
+OrgId:          INTER-395
+Address:        100 Phoenix DR
+Address:        suite 111
+City:           Ann Arbor
+StateProv:      MI
+PostalCode:     48108
+Country:        US
+RegDate:        2005-01-31
+Updated:        2019-07-08
+Ref:            https://rdap.arin.net/registry/entity/INTER-395
+
+
+OrgTechHandle: ZEKAU-ARIN
+OrgTechName:   Zekauskas, Matt 
+OrgTechPhone:  +1-914-222-0507 
+OrgTechEmail:  matt@internet2.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZEKAU-ARIN
+
+OrgAbuseHandle: INDIA-ARIN
+OrgAbuseName:   IndianaUniversity-abuse
+OrgAbusePhone:  +1-812-855-8476 
+OrgAbuseEmail:  abuse@iu.edu
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/INDIA-ARIN
+
+OrgTechHandle: WILKI169-ARIN
+OrgTechName:   Wilkinson, Chris 
+OrgTechPhone:  +1-734-352-4962 
+OrgTechEmail:  cwilkinson@internet2.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/WILKI169-ARIN
+
+OrgNOCHandle: NOCAB-ARIN
+OrgNOCName:   Internet2 Network Operations Center
+OrgNOCPhone:  +1-317-278-6622 
+OrgNOCEmail:  noc@net.internet2.edu
+OrgNOCRef:    https://rdap.arin.net/registry/entity/NOCAB-ARIN
+
+OrgTechHandle: BARTI-ARIN
+OrgTechName:   Bartig, Jeff 
+OrgTechPhone:  +1-608-616-9908 
+OrgTechEmail:  jbartig@internet2.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/BARTI-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+

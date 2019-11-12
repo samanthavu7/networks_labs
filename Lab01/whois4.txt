@@ -1,0 +1,63 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '80.239.192.0 - 80.239.196.255'
+
+% Abuse contact for '80.239.192.0 - 80.239.196.255' is 'abuse@telia.com'
+
+inetnum:        80.239.192.0 - 80.239.196.255
+netname:        PL-TELIANET
+descr:          Provider
+country:        EU
+admin-c:        TR889-RIPE
+tech-c:         TR889-RIPE
+status:         ASSIGNED PA
+mnt-by:         TELIANET-LIR
+created:        2001-11-29T14:22:53Z
+last-modified:  2012-10-18T05:16:37Z
+source:         RIPE
+
+role:           TeliaNet Registry
+address:        Telia Company AB
+address:        Stjarntorget 1
+address:        16979 Solna
+address:        Sweden
+address:        ********************************
+address:        Abuse and intrusion reports should
+address:        be sent to: abuse@telia.com
+address:        ********************************
+abuse-mailbox:  abuse@telia.com
+admin-c:        EVAO
+tech-c:         IC106-RIPE
+tech-c:         ACA-RIPE
+tech-c:         EVAO
+tech-c:         PJ2540-RIPE
+tech-c:         LS483-RIPE
+tech-c:         PB8229-RIPE
+nic-hdl:        TR889-RIPE
+mnt-by:         TELIANET-LIR
+created:        2002-08-21T12:58:15Z
+last-modified:  2018-01-10T13:32:21Z
+source:         RIPE # Filtered
+
+% Information related to '80.239.192.0/19AS1299'
+
+route:          80.239.192.0/19
+descr:          TELIANET-BLK
+remarks:        Abuse issues should be reported
+remarks:        to abuse@telia.com
+origin:         AS1299
+mnt-by:         TELIANET-RR
+created:        2005-09-22T08:54:26Z
+last-modified:  2007-01-10T12:18:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.95.1 (HEREFORD)
+
+
